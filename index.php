@@ -4,7 +4,7 @@
 		<title>Book Loads Online</title>
 
 		<meta charset="UTF-8">
-		<meta name="description" content="Carriers book loads Online, Anytime, Anywhere. Trucking companies search for loads and keep your trucks loaded.">
+		<meta name="description" content="Ajax Transport, Carriers book loads Online, Anytime, Anywhere. Trucking companies search for loads and keep your trucks loaded.">
 		<meta name="keywords" content="book loads online, search for loads, trucking, freight logistics, trucking companies, freight, brokers, logistics, carriers, ajax transport">
 		<meta name="author" content="David Petringa, Coded April 2018">
 		<meta name="viewport" content="width=device-width; initial-scale=1.0">
@@ -17,11 +17,13 @@
 
 		<header>
 			<h1>Book Loads Online</h1>
-			<h2>Find Freight For Your Trucks</h2>
+			<h2>Find Freight For Your Trucks at Ajax Transport</h2>
 		</header>
 
 		<section class="content">
-			<h3>Trucking Companies Book Loads</h3>
+			<h3>We Move Truckload and Less-Than-Truckload Freight</h3>
+			<h3>Trucking Companies Find and Book Loads</h3>
+			<h3>Servicing United States, Mexico and Canada</h3>
 			<div class="register">
 				<p>
 					<a href="http://www.ajaxtransport.com/carrier/register" target="blank">Register Now</a>
